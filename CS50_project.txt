@@ -1,0 +1,11 @@
+Platformer Game using pygame
+
+My name: Youssef Amr Elsayed Soliman
+
+edX user name: Youssef_Amr33
+
+GitHub user name: YoussefAmrSoliman
+
+From Egypt, Cairo
+
+Date: 5th of march 2024
